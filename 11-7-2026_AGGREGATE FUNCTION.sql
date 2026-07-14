@@ -1,13 +1,5 @@
 use pratice;
 show tables;
-select *from orders;
-select sum(price)/count(price) from orders;
-
-select avg(price) from orders;
-
-select count(price) from orders;
-
-select *from orders;
 
 create table t1(
 id int primary key,
