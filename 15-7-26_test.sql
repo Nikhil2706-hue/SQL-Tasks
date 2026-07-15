@@ -1,51 +1,51 @@
 /*
 Part A
-Which of the following is a DDL command?
+Which of the following is a DDL command?(c)
 a) INSERT
 b) UPDATE
 c) CREATE
 d) DELETE
-Which command is used to create a new database?
+Which command is used to create a new database?(b)
 a) MAKE DATABASE
 b) CREATE DATABASE
 c) ADD DATABASE
 d) NEW DATABASE
-Which SQL command removes all records from a table but keeps its structure?
+Which SQL command removes all records from a table but keeps its structure?(c)
 a) DROP
 b) DELETE
 c) TRUNCATE
 d) REMOVE
-Which command deletes the table structure and data permanently?
+Which command deletes the table structure and data permanently?(b)
 a) TRUNCATE
 b) DROP
 c) DELETE
 d) CLEAR
-Which command is used to rename an existing table?
+Which command is used to rename an existing table?(b)
 a) MODIFY TABLE
 b) RENAME TABLE old_name TO new_name;
 c) CHANGE TABLE
 d) UPDATE TABLE
-The INSERT command is used to:
+The INSERT command is used to:(a)
 a) Add new rows to a table
 b) Delete records
 c) Change column names
 d) Create a database
-The UPDATE command is used to:
+The UPDATE command is used to:(b)
 a) Add a column
 b) Modify existing data
 c) Create a new table
 d) Remove duplicate records
-Which command is used to delete specific records from a table?
+Which command is used to delete specific records from a table?(b)
 a) TRUNCATE
 b) DELETE
 c) DROP
 d) REMOVE
-Which command is used to retrieve data from one or more tables?
+Which command is used to retrieve data from one or more tables?(a)
 a) SELECT
 b) INSERT
 c) UPDATE
 d) REMOVE
-Which of the following is a DML command?
+Which of the following is a DML command?(d)
 a) CREATE
 b) DROP
 c) TRUNCATE
